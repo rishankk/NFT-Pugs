@@ -1,4 +1,14 @@
-1. We disn't upload an image to IPFS
-2. Why is IPFS decentralised?
-3. Anyone can mint an NFT here - not verifiably scarce or random
+Simple NFT - simplecollectible
+- no randomness
+- any one can create - whoever calls function
+- openzeppelin
+
+Advanced NFT
+- Randomness - Chainlink - VRF
+- IPFS for file upload
+- Pinata
+- Get one of 3 pugs as NFT (Pug, Shiba Inu, ST bernard)
+- Upload to opensea testnet
+- Rinkeby
+- openzeppelin
 
